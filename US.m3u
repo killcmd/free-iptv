@@ -1,122 +1,92 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AllWeddingsWEtv.us",AMC All Weddings
-https://amc-allweddings-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianCrush.us",Asian Crush
-https://ac-samsung-us.ono.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
-https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVPlus.us",Bloomberg TV+ UHD (2160p)
-https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="bonappetit.us",bon appétit (1080p)
-https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BounceXL.us",Bounce XL (720p)
-https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
-#EXTINF:-1 tvg-id="BratTV.us",Brat TV (1080p)
-https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us",AccuWeather Now (1080p) [Geo-blocked]
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AFV.us",AFV (720p)
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AFVEspanol.us",AFV en Español (720p) [Not 24/7]
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericasVoice.us",America's Voice (720p)
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV.us",Baby Shark TV (1080p)
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-id="BloodyDisgusting.us",Bloody Disgusting (1080p)
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Buzzr.us",Buzzr (1080p)
-https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Buzzr.us",Buzzr (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
+https://buzzr-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us",Cheddar News (1080p)
+https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us",Cheddar News (720p)
-https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+https://cheddar.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSureno.us",Cine Sureño (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1 tvg-id="CinevaultWesterns.us",Cinevault Westerns (540p)
+https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
 #EXTINF:-1 tvg-id="Circle.us",Circle (1080p)
-https://circle-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Clarity4K.us",Clarity 4K (2160p)
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1 tvg-id="Crime360.us",Crime 360 (720p)
-https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="DegrassiTheNextGeneration.us",Degrassi The Next Generation (720p)
-https://dhx-degrassi-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk",EDGEsport (1080p)
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk",EDGEsport (1080p)
-https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk",EDGEsport (US) (720p)
-https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+https://circle-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cocoro.us",Cocoro (1080p)
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+#EXTINF:-1 tvg-id="CONtvAnime.us",CONtv Anime (1080p)
+https://contvanime-roku-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1 tvg-id="DoveChannel.us",Dove Channel (1080p)
+https://dovenow-roku-ingest.cinedigm.com/master.m3u8
 #EXTINF:-1 tvg-id="EstrellaNews.us",Estrella News (1080p)
-https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ESTV.us",ESTV (1080p)
-https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us",FailArmy (720p)
-https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FireplaceLounge.us",Fireplace Lounge (2160p)
-https://d300k472vyqakg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-aijrtvzii4xsm-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8
-#EXTINF:-1 tvg-id="FoxSoul.us",Fox Soul (1080p)
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us",Estrella TV East (1080p)
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us",Fox Soul (1080p) [Not 24/7]
+https://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FTF.us",FTF (720p)
-https://elevensports.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FUELTV.at",Fuel TV (720p)
-https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="GustoTV.us",Gusto TV (720p)
-https://gustotv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="HSN.us",HSN (720p)
-https://hsn.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="IGN.us",IGN (1080p)
-https://ign-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InsightTV.nl",Insight TV (720p)
-https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InsightTV.nl",Insight TV (720p)
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InTrouble.nl",InTrouble (1080p)
-https://introuble-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InWonder.nl",InWonder (720p)
-https://inwonder-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IONPlusEast.us",Ion Plus (1080p)
-https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="IONPlusEast.us",ION Plus
-https://ion-plus.samsung.wurl.com/playlist.m3u8
-#EXTINF:-1 tvg-id="IONTVEast.us",ION
-https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LawCrime.us",Law & Crime (720p)
-https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="LivelyPlace.us",Lively Place (720p)
-https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now (720p)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Loupe4K.us",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature4K.ca",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="MidnightPulp.us",Midnight Pulp (720p)
-https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="HappyKids.us",HappyKids (1080p)
+https://happykids-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HiYAH.us",Hi-YAH! (1080p)
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Horrify.us",Horrify (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:-1 tvg-id="iFoodTV.us",iFood.TV (1080p)
+https://ft-ifood-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JuntosTV.us",Juntos (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+#EXTINF:-1 tvg-id="LegoChannel.us",Lego Channel (1080p)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.uk",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us",MovieSphere (1080p)
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us",MovieSphere (1080p)
+https://moviesphere-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MST3K.us",MST3K (1080p)
+https://mst3k-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us",MyTime Movie Network (1080p)
-https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV.us",Newsmax (1080p)
-https://newsmax-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OutsideTV.us",Outside TV (720p)
-https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="NewKidTV.us",New Kid TV (1080p)
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us",OAN (1080p)
+https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us",Outside TV (1080p)
+https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Pac12Insider.us",Pac 12 Insider (1080p)
-https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PursuitUP.us",Pursuit Up (720p)
-https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="QVC.us",QVC (720p)
-https://qvc.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ShoutFactoryTV.us",Shout! Factory TV (720p)
-https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="SportsGrid.us",SportsGrid (1080p)
-https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Stadium.us",Stadium (720p)
-https://stadium.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca",Stingray Naturescape (1080p)
-https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ThePetCollective.us",The Pet Collective (720p)
-https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="TheYoungTurks.us",The Young Turks (TYT) (720p)
-https://tyt-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VENN.us",VENN (1080p)
-https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WeatherSpy.us",WeatherSpy
-https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WeatherSpy.us",WeatherSpy (720p)
-https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayersTV.ca",Players TV (1080p)
+https://playerstv-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co",RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us",Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCarolBurnettShow.us",The Carol Burnett Show (1080p)
+https://carolburnett-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCraftistry.us",The Craftistry (1080p)
+https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TopCine.us",Top Cine (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us",WeatherNation (720p) [Geo-blocked]
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="XploreTV.us",Xplore (1080p)
-https://xlpore-samsungus.amagi.tv/playlist.m3u8
+https://xplore-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us",Yahoo! Finance (1080p)
-https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="YoungHollywood.us",Young Hollywood (720p)
-https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+https://yahoo-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",WRA Canal 10 (1080p)
+https://streamtv.intervenhosting.net:3582/live/wadydelrosariolive.m3u8
 #EXTINF:-1 tvg-id="70sCinema.us",Pluto TV 70s Cinema (684p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="80sRewind.us",Pluto TV Pluto 80s Rewind (684p)
